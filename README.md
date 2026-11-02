@@ -37,6 +37,8 @@ It combines multiple passive OSINT sources with DNS brute-force and mutation tec
 ### Install dependencies
 
 ```bash
+git clone https://github.com/KongSugoi/subfinder.git
+cd submonitor
 go mod tidy
 ```
 
