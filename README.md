@@ -133,4 +133,3 @@ submonitor.exe
 
 This project is for educational and authorized security testing purposes only.  
 Always ensure you have permission before scanning any domain.
-```
