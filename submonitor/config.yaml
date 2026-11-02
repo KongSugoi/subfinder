@@ -1,0 +1,12 @@
+domains:
+  - <write your domain here>
+  - <write your domain here>
+
+telegram:
+  bot_token: "<write your bot token here>"
+  chat_id: "<write your chat.id here>"
+
+schedule_hours: 72          # re-run after 72 hours
+output_dir: "output"
+data_dir: "data"
+wordlist: "2m-subdomains" # you can change to your wordlist
